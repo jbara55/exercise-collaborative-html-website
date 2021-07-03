@@ -1,5 +1,22 @@
+
+form {    
+    padding: 10px 10px 20px 30px;    
+    border: solid;
+    border-color: rgb(212, 212, 212);
+    border-width: 1px;
+    }
 body{
     background: #BDBDBD;
 }
 
+.carousel-item {
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-image: url(/website1/assets/img/bg.jpg);
+}
 
+.carousel-item h1 {
+    margin: 0;    
+    color: white;
+}
