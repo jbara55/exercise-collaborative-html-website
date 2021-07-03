@@ -1,3 +1,9 @@
-body{
-    background: #BDBDBD;
+
+form {
+    
+    padding: 10px 10px 20px 30px;
+    
+    border: solid;
+    border-color: rgb(212, 212, 212);
+    border-width: 1px;
 }
